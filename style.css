@@ -6,7 +6,8 @@
     padding: 5px;
     display: flex;
     //flex-direction: column-reverse;
-    flex-wrap:wrap;
+    //flex-wrap:wrap;
+    justify-content:space-evenly;
 }
 .container div{
     width: 120px;
