@@ -5,7 +5,8 @@
     margin: 30px auto;
     padding: 5px;
     display: flex;
-    flex-direction: column-reverse;
+    //flex-direction: column-reverse;
+    flex-wrap:wrap;
 }
 .container div{
     width: 120px;
