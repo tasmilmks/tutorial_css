@@ -1,0 +1,17 @@
+box-sizing:border-box -->untuk mengatur ukuran margin
+float-->out of normal view jika ingin membuat text wrapping mengelilingi image
+atau membuat multiple column 
+
+properti display:inline,inline-block,block
+properti overflow:scroll,hidden,auto,visible-->untuk mengatur konten dalam box element
+propert clear-->berfungsi menghentikan/membersihkan float.
+     properti:left,rigt,both
+atau membersih float dengan mengcopy kode pada website
+http://nicolasgallagher.com/micro-clearfix-hack/
+
+properti position-->mengubah posisi element tanpa mempengaruhi elemen yang lain
+valuenya :static,relative,absolute,fixed
+
+properti z-index-->untuk menangani tumpukan elemen
+semakin besar indexnya maka akan semakin dekat dengan kita
+properti elemen transparan -->opacity:0.7;
